@@ -14,6 +14,22 @@ Step 2 : set up the .env file to refer the database from
 
 Step 3 : Set the schema  of the NoSql mongodb file in Post.js
 
+const PostSchema = mongoose.Schema({
+  title: {
+    type: String,
+    required: true,
+  },
+  description: {
+    type: String,
+    required: true,
+  },
+  data: {
+    type: Date,
+    default: Date.now,
+  },
+});
+
+This is the Schema we are following
 
 
 Step 4 : Declare the GET, POST, PATCH and DELETE requestd for the TODO api in the posts.js file
