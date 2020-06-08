@@ -12,5 +12,8 @@ Step 3 : Set the schema  of the NoSql mongodb file in Post.js
 
 Step 4 : Declare the GET, POST, PATCH and DELETE requestd for the TODO api in the posts.js file
 
+GET (FIRST)
+![](/images/get1.png)
+
         
 
