@@ -39,6 +39,8 @@ Step 4 : Declare the GET, POST, PATCH and DELETE requestd for the TODO api in th
 
 
 1) GET (FIRST)
+
+
 ![](/images/get1.png)
 
         
@@ -48,6 +50,8 @@ Step 4 : Declare the GET, POST, PATCH and DELETE requestd for the TODO api in th
         
 
 2) GET BY ID
+
+
 ![](/images/get_by_id.png)
 
 
@@ -58,6 +62,8 @@ Step 4 : Declare the GET, POST, PATCH and DELETE requestd for the TODO api in th
 
 
 3) DELETE BY ID
+
+
 ![](/images/delete_by_id.png)
 
 
@@ -69,6 +75,8 @@ Step 4 : Declare the GET, POST, PATCH and DELETE requestd for the TODO api in th
 
 
 4) TO CONFIRM HERE'S THE GET AFTER THE DELETE REQUEST
+
+
 ![](/images/get_after_delete.png)
 
 
@@ -80,6 +88,8 @@ Step 4 : Declare the GET, POST, PATCH and DELETE requestd for the TODO api in th
 
 
 5) POST A NEW REQUEST AFTER THAT DELETE HAS BEEN MADE
+
+
 ![](/images/post.png)
 
 
@@ -92,6 +102,8 @@ Step 4 : Declare the GET, POST, PATCH and DELETE requestd for the TODO api in th
 
 
 6) TO CONFIRM HERE'S THE GET AFTER THE POST REQUEST
+
+
 ![](/images/get_after_post.png)
 
 
